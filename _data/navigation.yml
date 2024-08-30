@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://jhklee.github.io/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Resources"
+    url: https://jhklee.github.io/resources/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
