@@ -1,5 +1,5 @@
 ---
-title: "About Jonghyuk Lee"
+title: "About Jonghyuk"
 permalink: /about/
 layout: single
 ---
@@ -8,4 +8,4 @@ layout: single
 ### Jonghyuk Lee
 PhD Student in Finance at University of Washington, Foster School of Business
 
-My research is broadly within economics and finance, focusing on corporate finance.
+My research interests include private equity, financial intermediation, behavior finance and more to be explored during the Ph.D. program. 
