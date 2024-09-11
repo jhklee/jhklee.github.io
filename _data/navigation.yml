@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: https://jhklee.github.io/about/
+  - title: "Research"
+    url: https://jhklee.github.io/research/
   - title: "Resources"
     url: https://jhklee.github.io/resources/
   # - title: "Sample Posts"
