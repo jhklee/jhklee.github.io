@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Jong Hyuk Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jk_profile3.jpg"
   bio              : "PhD Student in Finance"
   location         : "Seattle, WA"
-  email            :
+  email            : jhklee0130 [at] gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

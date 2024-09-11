@@ -3,7 +3,7 @@ title: ""
 permalink: /about/
 layout: single
 ---
-### Jonghyuk Lee
+### Jong Hyuk Lee
 
 PhD Student in Finance at University of Washington, Foster School of Business
 
