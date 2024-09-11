@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Jong Hyuk Lee"
-  avatar           : "jhklee.github.io/assets/images/jk_profile4.jpg"
+  avatar           : "/assets/images/jk_profile4.jpg"
   bio              : "PhD Student in Finance"
   location         : "Seattle, WA"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jhklee0130@gmail.com"
+      url: "mailto:jhklee0130@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jklbiz/"
