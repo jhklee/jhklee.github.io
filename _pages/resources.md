@@ -6,6 +6,8 @@ layout: single
 ### General Resources 
 [Sangmin Simon Oh](https://sangmino.github.io/resources/) with a full list of gernal advice for PhD students. 
 
+[Leigh Tesfatsion](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/sources.htm) with an aggregated information for all economists. 
+
 ### Advice for Academic Career beyond PhD
 [Michael Weisbach](https://press.princeton.edu/books/hardcover/9780691216492/the-economists-craft?srsltid=AfmBOorxJNULRgpMBNlp3U_RTEJb-p5zH5lbDK8l6b_k_zIrGgsYtjwI) on research and career advice for young Economists. 
 
