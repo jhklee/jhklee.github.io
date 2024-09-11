@@ -12,5 +12,5 @@ layout: single
 ### Advice for PhD admission 
 [Interview Advice for Business PhD Promgrams](https://www.notion.so/PhD-Interview-Tips-Navigating-the-Path-to-a-Business-School-Admission-e5ac1073b5874aaea25b037e31abbe7e) from my personal experience. 
 
-### Other PhD Student's website 
+### Other insightful pages
 [Donal O'Cofaigh](https://justhumourme.substack.com/) on Macro financial market updates. 
