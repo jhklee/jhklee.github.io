@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Research/
+permalink: /research/
 layout: single
 ---
 ### Working Papers
