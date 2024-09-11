@@ -5,7 +5,7 @@ layout: single
 ---
 ### Jong Hyuk Lee
 
-[CV updated in 2024 Aug](https://drive.google.com/file/d/15bghERF3wpsc9cpRmbY4PYaC7adQpP2i/view?usp=drive_link "2024 Aug version")
+[Latest CV](https://drive.google.com/file/d/15bghERF3wpsc9cpRmbY4PYaC7adQpP2i/view?usp=drive_link "updated Aug 2024")
 
 PhD Student in Finance at University of Washington, Foster School of Business  
 
