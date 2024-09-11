@@ -114,17 +114,17 @@ analytics:
 # Site Author
 author:
   name             : "Jong Hyuk Lee"
-  avatar           : "/assets/images/jk_profile5.jpg"
+  avatar           : "/assets/images/jk_profile4.jpg"
   bio              : "PhD Student in Finance"
   location         : "Seattle, WA"
   email            : jhklee0130 [at] gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:jhklee0130@gmail.com"
+    - label: "linkedin"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jklbiz/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
