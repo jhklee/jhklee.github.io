@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jong Hyuk Lee"
-  avatar           : "https://jhklee.github.io/assets/images/bio-photo.jpg" 
+  avatar           : 
   bio              : "PhD Student in Finance"
   location         : "Seattle, WA"
   email            : 
