@@ -21,8 +21,3 @@ layout: single
 
 ### Other insightful pages
 [Donal O'Cofaigh](https://justhumourme.substack.com/) on Macro financial market updates. 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 6d5ee1f28f0f6121f706c01f7a13ae71ba16e75f
